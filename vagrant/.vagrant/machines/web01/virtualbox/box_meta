@@ -1,1 +1,1 @@
-{"name":"centos/stream9","version":"20250930.0","provider":"virtualbox","directory":"boxes/centos-VAGRANTSLASH-stream9/20250930.0/amd64/virtualbox"}
+{"name":"ubuntu/jammy64","version":"20241002.0.0","provider":"virtualbox","directory":"boxes/ubuntu-VAGRANTSLASH-jammy64/20241002.0.0/virtualbox"}
